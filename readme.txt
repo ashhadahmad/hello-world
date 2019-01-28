@@ -1,1 +1,2 @@
-Hello ! I am being tracked by git
+Hello !
+I am being tracked by git
